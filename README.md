@@ -2,23 +2,23 @@
 
 
 <p align="center">
-  <a href="https://github.com/Zora24/Lord-Userbot/fork">
+  <a href="https://github.com/Baleuii/Skylark-Userbot/fork">
     <img src="https://img.shields.io/github/forks/Zora24/Lord-Userbot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Zora24/Lord-Userbot">
+  <a href="https://github.com/Baleuii/Skylark-Userbot">
     <img src="https://img.shields.io/github/stars/Zora24/Lord-Userbot?style=social">
   </a>
 </p>  
 
-# Lord Userbot
-![Lord Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
+# Skylark Userbot
+![Skylark Userbot Logo](https://telegra.ph/file/62dc59b2013a48f9cc8f3.jpg)
 
 <h3 align="center">Userbot Yang Digunakan Untuk Bersenang-Senang Di Telegram</h3>
 <p align="center">&nbsp;</p>
 
-### Repo Lord Userbot
-Repo Yang Dibuat [Alvin](https://t.me/liualvinas) Dari Berbagai Repo Userbot Github 
+### Repo Skylark-Userbot
+Repo Yang Dibuat [BALE](https://t.me/balxxx) Dari Berbagai Repo Userbot Github 
 
 
 ### CARA MENDAPATKAN STRING SESSON
