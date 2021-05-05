@@ -22,7 +22,7 @@ Repo Yang Dibuat [BALE](https://t.me/balxxx) Dari Berbagai Repo Userbot Github
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+Caranya Pergi Ke Grup Support Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/petercord) Untuk Masuk Ke Grup Support
 
 ## Bagaimana Cara Deploy?
 
@@ -39,7 +39,7 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-Atau Bisa Gabung Ke Grup Lord Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
+Atau Bisa Gabung Ke Grup Userbot -> [TEKAN DISINI](https://t.me/petercord)
 ## <p align="center">DEPLOY WOLVES USERBOT</p>
 
 
